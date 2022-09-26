@@ -5,5 +5,5 @@
     "token": "MTAyMDM5NTI5ODU5OTc1MTc2MA.Glk_lf.J1lOsb-8acS2pBJPNBDOl1bFX3hGb7uIvt1_d4"
   },
   "dashboardURL": "http://localhost:3000",
-  "mongoURI": "mongodb://localhost/1PG-Demo"
+  "mongoURI": "mongodb+srv://katakuri:anakatakuri123@empiresys.bwkab3r.mongodb.net/?retryWrites=true&w=majority"
 }
